@@ -1,2 +1,3 @@
-# Car_Price_Prdeiction_ML
-SystemTron ML Internship – Week 2 Task
+🔗 Car Price Prediction Using Machine Learning
+This Project was Created as Part of the SystemTron ML Internshipn- Week 2 Task
+
