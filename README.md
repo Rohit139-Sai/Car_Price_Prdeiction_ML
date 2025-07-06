@@ -10,3 +10,17 @@ It focuses on predicting the resale value of used cars using a machine learning 
 The goal is to build a regression model that can estimate the car price accurately based on these inputs.
 
 
+## ⚙️ Tech Stack
+
+This project uses the following tools and technologies:
+
+- **Python** – Programming language
+- **Pandas** – Data manipulation and preprocessing
+- **NumPy** – Numerical operations
+- **Matplotlib** & **Seaborn** – Data visualization
+- **Scikit-learn** – Machine learning algorithms and evaluation
+- **Google Colab** – Development and execution environment
+- **Pickle** – Saving and loading the trained model
+
+
+
