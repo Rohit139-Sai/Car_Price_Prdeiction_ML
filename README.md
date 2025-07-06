@@ -109,9 +109,6 @@ When providing new input (e.g., a 2019 Petrol car driven for 35,000 km), the mod
 The actual output may vary slightly based on input values and model tuning.
 
 ---
-
----
-
 ## 👤 Author
 
 **Dasari Sai Ram**  
