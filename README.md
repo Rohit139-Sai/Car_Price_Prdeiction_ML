@@ -102,7 +102,6 @@ After training the model using Random Forest Regressor, its performance was eval
 The model showed good accuracy in predicting used car prices on the test dataset.
 
 ---
-
 ## 🔮 Sample Output
 
 When providing new input (e.g., a 2019 Petrol car driven for 35,000 km), the model predicts an approximate resale price like:
